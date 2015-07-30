@@ -941,13 +941,20 @@
 			color: rgba(255, 255, 255, 0.5);
 		}
 
+	/* Logo */
+
+	.logo {
+		max-height: 100%;
+		float: left;
+		margin-left: 2em;
+	}
+
 	#header {
-		background-color: #383b43;
-		color: #ffffff;
+		background-color: #ffffff;
 		cursor: default;
 		font-size: 1.1em;
-		height: 6em;
-		line-height: 6em;
+		height: 4em;
+		line-height: 4em;
 		width: 100%;
 		z-index: 10000;
 	}
@@ -969,8 +976,8 @@
 		#header nav {
 			height: inherit;
 			line-height: inherit;
-			position: absolute;
-			right: 3em;
+			float: right;
+			margin-right: 2em;
 			vertical-align: middle;
 		}
 
@@ -999,7 +1006,7 @@
 					}
 
 						#header nav > ul > li a:active, #header nav > ul > li a:hover {
-							color: #ffffff;
+							color: #00a4c7;
 						}
 
 					#header nav > ul > li:first-child {
@@ -1117,7 +1124,7 @@
 			}
 
 		.wrapper.style3 {
-			background-color: #3cadd4;
+			background-color: #00a4c7;
 			color: #ffffff;
 		}
 
