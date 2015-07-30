@@ -1096,6 +1096,10 @@
 			padding-top: 4em;
 		}
 
+		.wrapper.style2 {
+			background-color: #fdb713;
+		}
+
 		.wrapper.style2 .profile {
 			margin-bottom: 2em;
 			text-align: left;
