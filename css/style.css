@@ -1056,13 +1056,13 @@
 			color: #ffffff;
 			font-size: 4em;
 			line-height: 1.25em;
-			margin: 0 0 0.5em 0;
+			margin: 0 0 0em 0;
 			padding: 0;
 		}
 
-		#banner p {
-			font-size: 1.5em;
-			margin-bottom: 1.75em;
+		.subtitle {
+			margin: 0 0 1.75em 0;
+			text-transform: uppercase;
 		}
 
 /* Wrapper */
