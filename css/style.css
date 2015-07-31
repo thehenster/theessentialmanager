@@ -938,19 +938,20 @@
 	}
 
 		body.landing #header nav a {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.9);
 		}
 
 	/* Logo */
 
 	.logo {
-		max-height: 100%;
+		max-height: 50px;
 		float: left;
+		margin-top: 15px;
 		margin-left: 2em;
 	}
 
 	#header {
-		background-color: #ffffff;
+		background-color: transparent;
 		cursor: default;
 		font-size: 1.1em;
 		height: 4em;
