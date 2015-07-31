@@ -118,3 +118,8 @@
 	#footer .icons {
 		text-align: center;
 	}
+
+
+.rocket, .moon {
+  display: none;
+}
