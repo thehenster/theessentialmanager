@@ -1300,3 +1300,13 @@
 	color: #444;
 	background: #ddd;
 }
+
+/* Video header */
+
+.video-header {
+	margin-bottom: 20px;
+}
+
+.video-header h2 {
+	margin-bottom: 0px;
+}
