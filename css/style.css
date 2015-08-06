@@ -1273,3 +1273,26 @@
 .todo-list__subtitle {
 	color: #474747;
 }
+
+/* Typeform button */
+
+.typeform-button {
+	display: block;
+	padding: 15px;
+	border: 1px solid #555;
+
+	border-radius: 2px;
+	text-decoration: none;
+	background: #e4e6e5;
+
+	font-weight: bold;
+	font-size: 1.4em;
+
+	color: #626966;
+}
+
+.typeform-button:hover {
+	text-decoration: none;
+	color: #444;
+	background: #ddd;
+}
