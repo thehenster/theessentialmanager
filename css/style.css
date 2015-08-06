@@ -1269,3 +1269,7 @@
 .todo-list__time {
 	color: gray;
 }
+
+.todo-list__subtitle {
+	color: #474747;
+}
