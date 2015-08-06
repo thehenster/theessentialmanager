@@ -1258,3 +1258,14 @@
 	float: right;
 	text-align: center;
 }
+
+
+/* Todo list */
+
+.todo-list {
+	font-size: 1.2em;
+}
+
+.todo-list__time {
+	color: gray;
+}
