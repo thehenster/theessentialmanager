@@ -1266,8 +1266,12 @@
 	font-size: 1.2em;
 }
 
+.todo-list li {
+	font-weight: bold;
+}
+
 .todo-list__time {
-	color: gray;
+	font-weight: normal;
 }
 
 .todo-list__subtitle {
