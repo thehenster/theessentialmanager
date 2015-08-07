@@ -1152,7 +1152,7 @@
 
 	#footer {
 		background: #383b43;
-		padding: 6em 0em 4em;
+		padding: 2em 0em 4em;
 	}
 
 		#footer h2, #footer h3, #footer h4 {
@@ -1309,4 +1309,17 @@
 
 .video-header h2 {
 	margin-bottom: 0px;
+}
+
+/* Mission brilliant */
+
+.mission-brilliant {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.mission-brilliant img {
+	width: 100%;
 }
